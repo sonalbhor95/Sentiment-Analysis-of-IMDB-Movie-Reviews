@@ -4,8 +4,8 @@ This project focuses on Sentiment Analysis using the IMDB dataset, which contain
 
 The goal of this project is to classify reviews as positive or negative, leveraging machine learning and NLP techniques to predict sentiment effectively. Key aspects of the project include:
 
-Data Preprocessing: Cleaning and preparing text data for analysis.
-Feature Extraction: Techniques like TF-IDF and word embeddings.
-Model Development: Training classifiers such as Logistic Regression, Naive Bayes, Stochastic gradient descent, Linear support vector machines and Neural Networks.
-Evaluation: Assessing model performance using metrics like accuracy, precision, and recall.
-This project demonstrates practical applications of NLP and showcases the ability to build scalable solutions for sentiment prediction tasks.
+Data Preprocessing: Cleaning and preparing text data for analysis.<br>
+Feature Extraction: Techniques like TF-IDF and word embeddings.<br>
+Model Development: Training classifiers such as Logistic Regression, Naive Bayes, Stochastic gradient descent, Linear support vector machines, and Neural Networks.<br>
+Evaluation: Assessing model performance using metrics like accuracy, precision, and recall.<br>
+This project demonstrates practical applications of NLP and showcases the ability to build scalable solutions for sentiment prediction tasks.<br>
